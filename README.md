@@ -1,0 +1,1 @@
+# plugins-faster-pagination
